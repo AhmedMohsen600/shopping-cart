@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "name": "Book",
+    "name": "Ahmed",
     "price": 10.99,
     "imgUrl": "/imgs/book.jpeg"
   },
   {
     "id": 2,
-    "name": "Computer",
+    "name": "Ahmed",
     "price": 1199,
     "imgUrl": "/imgs/computer.jpeg"
   },
   {
     "id": 3,
-    "name": "Banana",
+    "name": "Ahmed",
     "price": 1.05,
     "imgUrl": "/imgs/banana.jpeg"
   },
   {
     "id": 4,
-    "name": "Car",
+    "name": "Ahmed",
     "price": 14000,
     "imgUrl": "/imgs/car.jpeg"
   }

@@ -16,7 +16,7 @@ export const CartItem = ({ id, qty }: CartItemProps) => {
       <img
         src={item.imgUrl}
         alt="koko"
-        style={{ width: "150px", height: "80px", objectFit: "cover" }}
+        style={{ width: "150px", height: "80px", objectFit: "contain" }}
       />
       <div className="me-auto">
         <div>
